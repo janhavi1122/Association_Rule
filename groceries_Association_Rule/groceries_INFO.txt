@@ -1,0 +1,7 @@
+This script performs Association Rule Mining on grocery transaction data using the Apriori algorithm. It processes raw data into a structured format, applies one-hot encoding, and identifies frequent itemsets with a minimum support of 0.0075. Using these itemsets, association rules are generated and sorted based on lift, highlighting item combinations that frequently co-occur. The results, including a bar chart of item frequencies and the top rules, provide insights for targeted promotions, cross-selling, and inventory optimization.
+
+
+
+
+
+
